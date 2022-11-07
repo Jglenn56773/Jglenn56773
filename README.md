@@ -1,7 +1,7 @@
-Hello, my name is Jason,
+Hello, my name is Jason
 
 I'm a self taught aspiring Full Stack Developer
-with a particular interest in Python/.React
+with a particular interest in Python, .React, and Web3.0
 Let's change the world together 1 line of code
 at a time!
 <!---
